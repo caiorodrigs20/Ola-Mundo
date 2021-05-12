@@ -1,2 +1,2 @@
-# Ola Mundo
- primeiro projeto
+# Olá, Mundo!
+ Repositório criado por caio rodrigues
